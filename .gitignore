@@ -1,0 +1,7 @@
+vendor/
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+.DS_Store
